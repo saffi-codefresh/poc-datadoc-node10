@@ -1,0 +1,11 @@
+{
+  "name": "data-dog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@codefresh-io/datadog-api-client-10-1": "^1.0.0-beta.5-node10-1",
+    "ts-node": "9.1.1",
+    "typescript": "^4.4.4"
+  }
+}
